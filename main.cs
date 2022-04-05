@@ -17,7 +17,7 @@ class Program
         Console.WriteLine("");
         Console.WriteLine("Formula = (4/3 𝝅 r³");
         Console.WriteLine("");
-        Console.Write("Enter the radius of the pyramid (mm): ");
+        Console.Write("Enter the radius of the sphere (mm): ");
         radius = double.Parse(Console.ReadLine());
         Console.WriteLine("");
         //process
